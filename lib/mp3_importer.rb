@@ -1,4 +1,4 @@
-class Mp3_importer
+class Mp3importer
   attr_reader :path
 
   def initialize(path)
